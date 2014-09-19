@@ -1,5 +1,6 @@
-Learn to Program by Chris Pine
-Beginning Ruby by Peter Cooper
-Sinatra Up and Running by Alan Harris & Konstantin Haase
-Ruby on Rails Tutorial by Michael Hartl
-Computer Science Programming Basics in Ruby by Ophir Frieder, Gideon Frieder, David Grossman
+Learn to Program, by Chris Pine
+Beginning Ruby, by Peter Cooper
+Sinatra Up and Running, by Alan Harris & Konstantin Haase
+Ruby on Rails Tutorial, by Michael Hartl
+Computer Science Programming Basics in Ruby, by Ophir Frieder, Gideon Frieder, David Grossman
+A Practical Guide To Building OWL Ontologies Using Protégé 4 and CO-ODE Tools Edition 1.3, by Matthew Horridge
